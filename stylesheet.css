@@ -1,0 +1,46 @@
+/* Styles for homepage */
+
+.homepagehead{
+	margin-top: 20px;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	
+}
+
+.homepagebody{
+	background: url("media/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 70%;
+
+}
+.homepagebody p{
+	background-color: rgba(255,255,255,1);
+	border: 10px solid rgba(0,0,0,1);
+	border-radius: 7px;
+	font-size: 22px;
+	color: black;
+}
+
+.menu{
+	margin-bottom: 100px;
+	margin-top: 100px;
+	text-align: centre;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 2px;
+	border-spacing: 20px 10px;
+	background-color: rgba(0,0,0,.3);
+	font-size: 30px;
+}
+.menu a{
+	text-decoration:none;
+	color: white;
+}
+
